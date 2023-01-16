@@ -77,6 +77,7 @@ body{font-family: 'Work Sans';}
 {
   .container2{display:flex;flex-direction:column;}
     .button1{width:auto;height: auto;}
+  .container33{padding-top:24%;}
 }
 
 @media (max-width:934px)
